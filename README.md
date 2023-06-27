@@ -1,0 +1,2 @@
+# SERVER
+My personal server.
